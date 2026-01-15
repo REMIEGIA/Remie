@@ -1,0 +1,15 @@
+streamlit as st
+tensorflow as tf
+tensorflow.keras 
+layers
+models
+tensorflow.keras.datasets
+cifar10
+tensorflow.keras.utils
+to_categorical
+numpy as np
+matplotlib.pyplot as plt
+PIL
+Image
+pandas as pd
+time
