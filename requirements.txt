@@ -1,15 +1,6 @@
-streamlit as st
-tensorflow as tf
-tensorflow.keras 
-layers
-models
-tensorflow.keras.datasets
-cifar10
-tensorflow.keras.utils
-to_categorical
-numpy as np
-matplotlib.pyplot as plt
-PIL
-Image
-pandas as pd
-time
+streamlit==1.53.0
+tensorflow==2.14.0
+numpy
+pandas
+matplotlib
+Pillow
